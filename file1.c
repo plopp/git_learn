@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-marus
-hotfix
-=======
 marcus
->>>>>>> iss1
+hotfix
